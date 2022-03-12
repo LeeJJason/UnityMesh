@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 [RequireComponent(typeof(MeshFilter)), RequireComponent(typeof(MeshRenderer))]
-public class Grids : MonoBehaviour
+public class GenerateMesh : MonoBehaviour
 {
     public int xSize = 10;
     public int ySize = 5;
