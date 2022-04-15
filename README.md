@@ -1,6 +1,8 @@
 # UnityMesh
 
-原文地址：https://zhuanlan.zhihu.com/p/188545267
+[原文地址](https://catlikecoding.com/unity/tutorials/mesh-basics/)
+
+[译文地址](https://zhuanlan.zhihu.com/p/188545267)
 
 * **第一篇：生成网格（程序生成）**
 
